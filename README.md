@@ -8,7 +8,7 @@ This repository will include more content in the future, but for now, it contain
 
 I wasn't the first to publish my DNA sequence:
 
-- [orta/dna](https://github.com/orta/dna) (he even uploaded their dog's DNA)
+- [orta/dna](https://github.com/orta/dna) (he even uploaded his dog's DNA)
 - [willjasen/willjasen-dna](https://github.com/willjasen/willjasen-dna) and [IPFS link to the file](https://ipfs.io/ipfs/QmNotd3CsD6pqV69YKjtvbRfA5DbkynaMoaDNuU334CM1M)
 
 ## Discussion threads on other platforms
